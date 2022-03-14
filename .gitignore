@@ -1,0 +1,6 @@
+.vagrant/
+ubuntu-bionic*.log
+counting-proxy.log
+counting.log
+dashboard-proxy.log
+dashboard.log
